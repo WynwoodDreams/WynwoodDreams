@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @WynwoodDreams
-- 👀 I’m interested in Data Analyst and Coding
-- 🌱 I’m currently learning Business Intelligence and data visualization
+- 👀 I’m interested in Data Analyst,Machine Learning,all A.I technology and Coding
 - 💞️ I’m looking to collaborate on Information Technology Events
 - 📫 How to reach me christianjort@gmail.com
 
